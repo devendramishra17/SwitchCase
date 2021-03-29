@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] args) {
      //print Your phone Brand Name
      String brand = "Motorola";
-     Switch (brand) {
+     switch (brand) {
 
             case "Apple":
                 System.out.println("Apple Phone");
